@@ -8,9 +8,9 @@ Os algoritmos serão classificados a complexidade pela notação assintótica (B
 
 ## Detalhes do projeto
 
-* [Força Bruta](https://github.com/fernandosutter/SimuladorAFN/blob/master/Afn.cs): algoritmo capaz de resolver problemas por meio de busca exaustiva em um espaço de soluções.
+* [Força Bruta](https://github.com/fernandosutter/PRIM-ES./blob/master/Euclides.cs): algoritmo capaz de resolver problemas por meio de busca exaustiva em um espaço de soluções.
 Complexidade: O(n).
-* [Euclides](https://github.com/fernandosutter/SimuladorAFN/blob/master/Afn.cs): algoritmo computa o máximo divisor comum. Complexidade: O(n).  
+* [Euclides](https://github.com/fernandosutter/PRIM-ES./blob/master/ForcaBruta.cs): algoritmo computa o máximo divisor comum. Complexidade: O(log n).  
 
 ### Referência
 
